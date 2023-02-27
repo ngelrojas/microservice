@@ -1,0 +1,8 @@
+twitter-to-kafka-service:
+  twitter-keywords:
+    - Java
+    - MircoServices
+    - Spring
+    - kafka
+    - ElasticSearch
+  welcome-message: "Welcome! this is my test"
